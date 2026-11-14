@@ -85,6 +85,7 @@ Dataset ini tidak berasal dari toko sungguhan yang melayani jual beli publik, me
 
 **Insight Tugas 03:**
 Produk kategori Intimates adalah produk dengan jumlah terbesar sebanyak 2363 items sedangkan produk dengan jumlah terendah (37) adaldah produk katagori clothing set
+
 **Insight tugas 04:** tabel sudah tersedia berisi ID pesanan, status pesanan, tanggal pesanan dibuat, serta nama depan dan nama belakang pelanggan. Dapat dilihat bahwa Brian Waters adalah pelanggan paling awal yg melakukan order pada tgl 06 Januari 2019 dan status complete.
 
 -----

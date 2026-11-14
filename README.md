@@ -79,13 +79,13 @@ Materi: JOIN, SUM, GROUP BY, ORDER BY
 
 ## 💡 Insight Bisnis
 
-1.  **Distribusi Kategori Produk (Soal 3):**
-    
-      * *(Tuliskan temuan Anda di sini, misalnya: Kategori X memiliki variasi produk terbanyak, menunjukkan fokus inventaris pada kategori tersebut...)*
 
-2.  **Kontribusi Penjualan per Kategori (Soal 5):**
-    
-      * *(Tuliskan temuan Anda di sini, misalnya: Kategori Y menghasilkan nilai penjualan tertinggi meskipun jumlah produknya tidak sebanyak kategori X...)*
+Karakter Utama TheLook E-Commerce:
+
+• Bukan Toko Riil: Dataset ini tidak berasal dari toko sungguhan yang melayani jual beli publik, melainkan berisi data sintetis (buatan).
+• Isi Dataset: Menyimpan informasi komprehensif terkait pelanggan, produk, pesanan (orders), item pesanan, logistik, aktivitas web (web events), hingga kampanye pemasaran digital.
+• Fungsi Utama: Banyak digunakan oleh praktisi data, analis, dan pembelajar data science untuk keperluan product discovery, testing, evaluasi, analisis bisnis, hingga pembuatan visualisasi data (misalnya menggunakan Google Colab, dbt, atau algoritma clustering seperti K-Means).
+• Platform Penyedia: Dataset ini sering diakses melalui platform seperti Kaggle maupun Google BigQuery public datasets
 
 -----
 

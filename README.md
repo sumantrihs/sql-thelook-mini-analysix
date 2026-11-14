@@ -79,12 +79,13 @@ Materi: JOIN, SUM, GROUP BY, ORDER BY
 
 ## 💡 Insight Bisnis
 
-Overview :
+**Overview**:
 Karakter Utama TheLook E-Commerce:
 Dataset ini tidak berasal dari toko sungguhan yang melayani jual beli publik, melainkan berisi data sintetis.
 
-**Insight Tugas 03:** : 
+**Insight Tugas 03:**
 Produk kategori Intimates adalah produk dengan jumlah terbesar sebanyak 2363 items sedangkan produk dengan jumlah terendah (37) adaldah produk katagori clothing set
+**Insight tugas 04:** tabel sudah tersedia berisi ID pesanan, status pesanan, tanggal pesanan dibuat, serta nama depan dan nama belakang pelanggan. Dapat dilihat bahwa Brian Waters adalah pelanggan paling awal yg melakukan order pada tgl 06 Januari 2019 dan status complete.
 
 -----
 

@@ -1,6 +1,6 @@
 # sql-thelook-mini-analysix
 
-# Mini Project SQL: TheLook E-Commerce Analysis
+Mini Project SQL: TheLook E-Commerce Analysis
 
 ## 📌 Deskripsi Proyek
 Proyek ini merupakan bagian dari **Data Analytics Bootcamp** (Sesi 5) yang berfokus pada penggunaan **Basic SQL hingga Simple JOIN** untuk menjawab berbagai pertanyaan bisnis pada data e-commerce. 

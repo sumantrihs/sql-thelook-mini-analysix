@@ -58,16 +58,10 @@ Materi: COUNT, GROUP BY, ORDER BY
 
 **Tujuan:** Menggabungkan data pelanggan dan pesanan untuk melihat detail pesanan beserta nama pelanggan.
 
-``` sql
-SELECT 
-  o.order_id,
-  o.status AS order_status,
-  o.created_at AS order_date,
-  u.first_name,
-  u.last_name
-FROM `bigquery-public-data.thelook_ecommerce.orders` AS o
-INNER JOIN `bigquery-public-data.thelook_ecommerce.users` AS u
-  ON o.user_id = u.id;
+``` Tim CRM ingin melihat pelanggan yang melakukan pemesanan. Gabungkan tabel users dan
+orders untuk menampilkan ID pesanan, status pesanan, tanggal pesanan dibuat, serta nama
+depan dan nama belakang pelanggan.
+Materi: INNER JOIN, ON, alias tabel
 
 ```
 

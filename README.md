@@ -1,8 +1,5 @@
 # sql-thelook-mini-analysix
-mini analisa terkait de-look ecommerce
-Here is a template for the `README.md` file in Indonesian based on the project requirements:
 
-```` markdown
 # Mini Project SQL: TheLook E-Commerce Analysis
 
 ## 📌 Deskripsi Proyek

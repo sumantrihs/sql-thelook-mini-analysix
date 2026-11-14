@@ -83,7 +83,7 @@ Overview :
 Karakter Utama TheLook E-Commerce:
 Dataset ini tidak berasal dari toko sungguhan yang melayani jual beli publik, melainkan berisi data sintetis.
 
-Insight tugas 03
+**Insight Tugas 03:** : 
 Produk kategori Intimates adalah produk dengan jumlah terbesar sebanyak 2363 items sedangkan produk dengan jumlah terendah (37) adaldah produk katagori clothing set
 
 -----

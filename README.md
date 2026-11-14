@@ -41,19 +41,16 @@ retail_price di atas 100. Tampilkan nama produk, kategori, merek, dan harga reta
 urutkan dari harga tertinggi ke terendah.
 Materi: WHERE, ORDER BY, DESC
 
+-----
+
 ### 3\. Evaluasi Kategori Produk
 
 **Tujuan:** Menghitung jumlah produk pada setiap kategori dan mengurutkannya dari yang terbesar.
 
-``` sql
-SELECT 
-  category,
-  COUNT(id) AS total_products
-FROM `bigquery-public-data.thelook_ecommerce.products`
-GROUP BY category
-ORDER BY total_products DESC;
-
-```
+Tim Product ingin mengetahui kategori dengan jumlah produk terbanyak. Hitung jumlah
+produk pada setiap kategori dari tabel products, lalu urutkan hasil dari jumlah produk
+terbesar.
+Materi: COUNT, GROUP BY, ORDER BY
 
 -----
 

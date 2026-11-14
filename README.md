@@ -36,19 +36,10 @@ Materi: SELECT, FROM, LIMIT
 
 **Tujuan:** Mencari produk dengan `retail_price` di atas 100 dan mengurutkannya dari harga tertinggi.
 
-``` sql
-SELECT 
-  name AS product_name,
-  category,
-  brand,
-  retail_price
-FROM `bigquery-public-data.thelook_ecommerce.products`
-WHERE retail_price > 100
-ORDER BY retail_price DESC;
-
-```
-
------
+Tim Marketing ingin menyiapkan kampanye untuk produk premium. Cari produk dengan
+retail_price di atas 100. Tampilkan nama produk, kategori, merek, dan harga retail, lalu
+urutkan dari harga tertinggi ke terendah.
+Materi: WHERE, ORDER BY, DESC
 
 ### 3\. Evaluasi Kategori Produk
 

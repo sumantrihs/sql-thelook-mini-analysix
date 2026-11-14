@@ -58,12 +58,10 @@ Materi: COUNT, GROUP BY, ORDER BY
 
 **Tujuan:** Menggabungkan data pelanggan dan pesanan untuk melihat detail pesanan beserta nama pelanggan.
 
-``` Tim CRM ingin melihat pelanggan yang melakukan pemesanan. Gabungkan tabel users dan
+Tim CRM ingin melihat pelanggan yang melakukan pemesanan. Gabungkan tabel users dan
 orders untuk menampilkan ID pesanan, status pesanan, tanggal pesanan dibuat, serta nama
 depan dan nama belakang pelanggan.
 Materi: INNER JOIN, ON, alias tabel
-
-```
 
 -----
 

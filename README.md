@@ -69,17 +69,11 @@ Materi: INNER JOIN, ON, alias tabel
 
 **Tujuan:** Menghitung total nilai penjualan (`sale_price`) berdasarkan kategori produk dan mengurutkannya dari yang terbesar.
 
-``` sql
-SELECT 
-  p.category,
-  SUM(oi.sale_price) AS total_sales
-FROM `bigquery-public-data.thelook_ecommerce.order_items` AS oi
-JOIN `bigquery-public-data.thelook_ecommerce.products` AS p
-  ON oi.product_id = p.id
-GROUP BY p.category
-ORDER BY total_sales DESC;
-
-```
+Manajer bisnis ingin mengetahui kategori produk dengan nilai penjualan terbesar. Gabungkan
+tabel order_items dan products, lalu hitung total nilai penjualan berdasarkan kategori.
+Tampilkan kategori dan total penjualan, kemudian urutkan dari nilai terbesar. Gunakan
+order_items.sale_price sebagai nilai transaksi per item.
+Materi: JOIN, SUM, GROUP BY, ORDER BY
 
 -----
 

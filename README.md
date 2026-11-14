@@ -88,6 +88,8 @@ Produk kategori Intimates adalah produk dengan jumlah terbesar sebanyak 2363 ite
 
 **Insight tugas 04:** tabel sudah tersedia berisi ID pesanan, status pesanan, tanggal pesanan dibuat, serta nama depan dan nama belakang pelanggan. Dapat dilihat bahwa Brian Waters adalah pelanggan paling awal yg melakukan order pada tgl 06 Januari 2019 dan status complete.
 
+**Insight tugas 04:** tabel sudah tersedia berisi product category dan total nilai penjualannya. Dapat disimpulkan dari tabel ini bahwa product Outwear & coats memiliki nilai sales terbesar senilai 1.304.349
+
 -----
 
 ## 🛠️ Alat & Teknologi

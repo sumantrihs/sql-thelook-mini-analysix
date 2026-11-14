@@ -25,17 +25,10 @@ Tabel yang dianalisis:
 
 ### 1. Analisis Produk
 **Tujuan:** Menampilkan 20 produk pertama beserta detail kategori, departemen, merek, dan harga retail.
-```sql
-SELECT 
-  name AS product_name,
-  category,
-  department,
-  brand,
-  retail_price
-FROM `bigquery-public-data.thelook_ecommerce.products`
-LIMIT 20;
-
-````
+Tim Product ingin mengetahui karakteristik produk yang dijual. Tampilkan nama produk,
+kategori, department, merek, dan harga retail dari tabel products. Batasi hasil menjadi 20
+produk pertama.
+Materi: SELECT, FROM, LIMIT
 
 -----
 
